@@ -8,4 +8,4 @@ Research project supported by IMF.
   * `ngdp_r_sa_pcha`: Gross domestic product, constant prices, seasonally adjusted, quarter-over-quarter percent change, annualized (Percent, Units)
   * `ngdp_r_sa_pchy`: Gross domestic product, constant prices, seasonally adjusted, year-over-year percent change (Percent, Units)
 * Macro data: 11 Macro WEO variables; PMIs; consumer and business sentiment; stock market prices; energy prices; ICRG
-* Benchmark: MA and EWMA based on historical data
+* Benchmark: MA and EWMA based on historical GDP growth data
