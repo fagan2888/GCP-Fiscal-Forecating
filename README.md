@@ -9,10 +9,10 @@ Research project supported by IMF.
   * `ngdp_r_sa_pcha`: Gross domestic product, constant prices, seasonally adjusted, quarter-over-quarter percent change, annualized (Percent, Units)
   * `ngdp_r_sa_pchy`: Gross domestic product, constant prices, seasonally adjusted, year-over-year percent change (Percent, Units)
 * Macro data: 11 Macro WEO variables; PMIs; consumer and business sentiment; stock market prices; energy prices; ICRG
-* Benchmark: MA and EWMA based on historical GDP growth data
 
 ## Methedology
+* Benchmark: MA and EWMA based on historical GDP growth data
 * Variable selection:
   * PCA ([lag 0](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors.ipynb), [lag 1](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag1.ipynb), [lag 2](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag2.ipynb); [Loading Matrix](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Macro_Factor_Loading_Matrix.png))
   * Random Forest
-  
+* NN modeling: LSTM  
