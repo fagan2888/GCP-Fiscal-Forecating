@@ -15,4 +15,7 @@ Research project supported by IMF.
 * Variable selection:
   * PCA ([lag 0](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors.ipynb), [lag 1](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag1.ipynb), [lag 2](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag2.ipynb); [Loading Matrix](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Macro_Factor_Loading_Matrix.png))
   * Random Forest
-* NN modeling: LSTM  
+* NN modeling: LSTM
+  * Two-layer LSTM
+  * Multi-layer LSTM
+  
