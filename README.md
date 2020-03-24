@@ -13,7 +13,7 @@ Research project supported by IMF.
 ## Methedology
 * Benchmark: MA and EWMA based on historical GDP growth data
 * Variable selection:
-  * PCA ([lag 0](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors.ipynb), [lag 1](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag1.ipynb), [lag 2](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag2.ipynb); [Loading Matrix](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Macro_Factor_Loading_Matrix.png))
+  * PCA: [lag 0](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors.ipynb), [lag 1](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag1.ipynb), [lag 2](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag2.ipynb); [Loading Matrix](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Macro_Factor_Loading_Matrix.png)
   * Random Forest
 * NN modeling: LSTM
   * [Two-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/LSTM_tuning.ipynb), [Multi-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Multilayer_LSTM_tuning.ipynb)
