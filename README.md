@@ -16,6 +16,8 @@ Research project supported by IMF.
   * PCA ([lag 0](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors.ipynb), [lag 1](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag1.ipynb), [lag 2](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/PCA_Macro_Factors_lag2.ipynb); [Loading Matrix](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Macro_Factor_Loading_Matrix.png))
   * Random Forest
 * NN modeling: LSTM
-  * Two-layer LSTM
-  * Multi-layer LSTM
+  * [Two-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/LSTM_tuning.ipynb), [Multi-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Multilayer_LSTM_tuning.ipynb)
+  * Hyper-parameter tuninh via [Weights & Biases](https://www.wandb.com/). Best model for two-layer and multi-layer LSTM, respectively:
   
+  ![image](https://user-images.githubusercontent.com/35391238/77387192-1b928b00-6d63-11ea-9ddf-89e409dc8d48.png)
+  ![image](https://user-images.githubusercontent.com/35391238/77387167-0289da00-6d63-11ea-9978-9b7b34e50bb0.png)
