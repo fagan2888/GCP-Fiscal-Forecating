@@ -17,7 +17,4 @@ Research project supported by IMF.
   * Random Forest
 * NN modeling: LSTM
   * [Two-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/LSTM_tuning.ipynb), [Multi-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Multilayer_LSTM_tuning.ipynb)
-  * Hyper-parameter tuninh via [Weights & Biases](https://www.wandb.com/). Best model for two-layer and multi-layer LSTM, respectively:
-  
-  ![image](https://user-images.githubusercontent.com/35391238/77387192-1b928b00-6d63-11ea-9ddf-89e409dc8d48.png)
-  ![image](https://user-images.githubusercontent.com/35391238/77387167-0289da00-6d63-11ea-9978-9b7b34e50bb0.png)
+  * Hyper-parameter tuninh via [Weights & Biases](https://www.wandb.com/)
