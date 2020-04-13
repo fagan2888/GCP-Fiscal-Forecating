@@ -18,3 +18,5 @@ Research project supported by IMF.
 * NN modeling: LSTM
   * [Two-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/LSTM_tuning.ipynb), [Multi-layer LSTM](https://github.com/lingyixu/GCP-Fiscal-Forecating/blob/master/Multilayer_LSTM_tuning.ipynb)
   * Hyper-parameter tuninh via [Weights & Biases](https://www.wandb.com/)
+* Model tuning:   
+Hyperparameters are tuned via [wandb](https://www.wandb.com/). Here is a [sample notebook](https://colab.research.google.com/drive/181GCGp36_75C2zm7WLxr9U2QjMXXoibt#scrollTo=aIhxl7glaJ5k) from wandb working with CNN.
